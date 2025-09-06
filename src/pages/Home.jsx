@@ -38,7 +38,7 @@ const Home = () => {
   const features = [
     {
       icon: <Schedule />,
-      title: 'Flexible Scheduling',
+      title: 'Flexible Scheduling....',
       description: 'Book sessions from 5 PM to 8 PM, Monday to Saturday'
     },
     {
